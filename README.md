@@ -18,9 +18,9 @@ To compile and run tests:
 
 # To run the client/server manually:
 To run the server: 
-```TODO```
+```mvn test-compile exec:java -Dexec.mainClass="io.grpc.examples.helloworld.HelloWorldServer" -Dexec.classpathScope="test"```
 
 To run the client in another tab: 
-```TODO```
+```mvn test-compile exec:java -Dexec.mainClass="io.grpc.examples.helloworld.HelloWorldClient" -Dexec.classpathScope="test"```
 
 
