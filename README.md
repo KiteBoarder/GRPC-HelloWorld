@@ -10,3 +10,11 @@ clone this repo.
 
 To compile and run tests: 
 ```mvn clean install```
+
+To run the server: 
+```TODO```
+
+To run the client in another tab: 
+```TODO```
+
+
